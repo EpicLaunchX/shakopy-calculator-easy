@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 
+
 @dataclass
 class Operands:
-    first_operand: str
-    second_operand: str
+    first_operand: int
+    second_operand: int
