@@ -4,4 +4,4 @@ from dataclasses import dataclass
 @dataclass
 class Operands:
     first_operand: int
-    second_operand: str
+    second_operand: int
